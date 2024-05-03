@@ -1,5 +1,7 @@
 # GitHub Actions Fundamentals
-test
+test push 1
+test push 2
+
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
